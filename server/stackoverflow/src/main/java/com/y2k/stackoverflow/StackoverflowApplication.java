@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class StackoverflowApplication {
+public class StackoverflowApplication { //test
 
 	public static void main(String[] args) {
 		SpringApplication.run(StackoverflowApplication.class, args);
